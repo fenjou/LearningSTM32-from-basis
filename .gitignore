@@ -1,0 +1,17 @@
+# 忽略 Keil 编译产生的垃圾文件，适用于所有子文件夹
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.lnp
+*.axf
+*.map
+*.lst
+*.build_log.htm
+*.iex
+*.uvguix.*
+Objects/
+Listings/
+DebugConfig/
+*.bak
